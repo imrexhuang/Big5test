@@ -1,0 +1,4 @@
+﻿http://rexhuang@192.168.1.45:7990/scm/gitbuckettest/rex.git
+
+UTF中文
+黃
